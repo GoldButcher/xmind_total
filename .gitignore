@@ -1,3 +1,8 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Eclipse template
 
@@ -103,3 +108,4 @@ cwallet.sso.lck### JEnv template
 #idea
 .idea/
 
+>>>>>>> 4843c0e2c1a7997d88f2bfc77c1f3fc12bd45e46
